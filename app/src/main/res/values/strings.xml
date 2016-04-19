@@ -3,4 +3,8 @@
     <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="reset">Reset</string>
+    <string name="up">UP</string>
+    <string name="left">LEFT</string>
+    <string name="down">DOWN</string>
+    <string name="right">RIGHT</string>
 </resources>
